@@ -1,0 +1,44 @@
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 23px;
+    letter-spacing: 2px;
+    color: blue;
+    padding: 10px 10px;
+    background:black;
+    font-style: oblique;
+    color: aliceblue;
+    border-radius: 15px;
+    
+}
+
+h1{
+    color: red;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#black{
+    color: black;
+}
+p1{
+    font-size: 17px;
+    font-weight: 600;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.red{
+    color:darkblue;
+}
+h2{
+    color:black;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width:100%;
+}
+body{
+    background:linear-gradient(pink,lightblue
+    );
+}

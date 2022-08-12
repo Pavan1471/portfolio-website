@@ -1,0 +1,91 @@
+body{
+    background:linear-gradient(lightblue,pink);
+    
+    font-size: 21px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+h2{
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    font-family: cursive;
+}
+p1{
+    font-size: 30px;
+    font-weight: 600;
+    font-style: initial;
+    font-weight:bold;
+}
+p2{
+    
+    
+    font-size: 19px;
+    font-weight: 600;
+    
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+.black{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 23px;
+    letter-spacing: 2px;
+    
+    padding: 10px 10px;
+    background:black;
+    font-style: oblique;
+    color: aliceblue;
+    border-radius: 15px;
+    
+}
+
+#img{
+    width: 50%;
+    margin-left:100px;
+    
+    
+}
+
+.imgs{
+    width: 45px;
+    
+    padding-left: 15px;
+    margin-left: 47px;
+
+    
+    
+    
+}
+p3{
+    text-transform: capitalize;
+    font-size: 23px;
+    letter-spacing: 2px;
+
+    padding: 10px 10px;   
+    background:orangered;
+    
+    font-style: oblique;
+    color:white;
+    margin-left: 170px;
+    border-radius: 20px;
+
+    
+
+}
+h4{
+    color: red;
+    font-size:30px;
+}
+p6{
+    font-weight: bold;
+    margin-left: 125px;
+
+}
+hr{
+    border-width: 2px;
+    
+
+}

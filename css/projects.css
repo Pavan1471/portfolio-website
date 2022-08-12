@@ -1,0 +1,33 @@
+body{
+    background-color:lightblue;   
+    font-family: arial;
+    font-style: italic;
+}
+p1{
+    color:black;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+h2{
+    color:red ;
+}
+img{
+    width: 100%;
+}
+
+
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 23px;
+    letter-spacing: 2px;
+    color: blue;
+    padding: 10px 10px;
+    background:black;
+    font-style: oblique;
+    color: aliceblue;
+    border-radius: 15px;
+    
+}
