@@ -44,8 +44,8 @@ p2{
 
 #img{
     width: 50%;
-    margin-left:25px;
-    margin-right:50px;
+    margin-left:25%;
+    margin-right:50%;
     
     
 }
@@ -53,8 +53,8 @@ p2{
 .imgs{
     width: 45px;
     
-    padding-left: 15px;
-    margin-left: 47px;
+    padding-left: 2%;
+    margin-left: 10%;
 
     
     
@@ -62,15 +62,14 @@ p2{
 }
 p3{
     text-transform: capitalize;
-    font-size: 23px;
-    letter-spacing: 2px;
-
+    
+    
     padding: 10px 10px;   
     background:orangered;
     
     font-style: oblique;
     color:white;
-    margin-left: 40px;
+    margin-left: 36%;
     border-radius: 20px;
 
     
